@@ -3,4 +3,4 @@ Documentation Artefacts in support of using the Stroom Ecosystem
 
 # Stroom Proxy
 
-* StroomProxy Install Guide [ProxyInstallGuide](/stroom-proxy-install-guide-community.docx) - Install guide for Stroom Proxy in connected and disconnected (to central Stroom) scenarios
+* [ProxyInstallGuide](/stroom-proxy-install-guide-community.docx) - Install guide for Stroom Proxy in connected and disconnected (to central Stroom) scenarios
